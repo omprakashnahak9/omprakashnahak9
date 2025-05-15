@@ -30,20 +30,12 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omprakashnahak9&theme=algolia&no-frame=true&title=Stars,Followers,Commits,Repositories,Issues,PullRequest" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=omprakashnahak9&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=omprakashnahak9&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omprakashnahak9&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-activity-graph.cyclic.app/graph?username=omprakashnahak9&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omprakashnahak9&show_icons=true&theme=radical" alt="omprakashnahak9" />
+  <img src="https://streak-stats.demolab.com?user=omprakashnahak9&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omprakashnahak9&layout=compact&theme=radical" />
 </p>
 
 ---
